@@ -1,0 +1,46 @@
+.stec-layout-month-daycell-events .stec-layout-month-daycell-event,
+.stec-layout-week-daycell-event-start {
+	height: auto!important;
+	position: unset!important;
+    margin-bottom: 3px!important;
+}
+
+.stec-layout-agenda-eventholder-form {
+	display: none!important;
+}
+
+.calendar-title-date {
+	font-weight: bold;
+}
+
+.stec-layout-event.active .stec-layout-event-inner {
+    display: none!important;
+}
+
+.stec-layout-event-preview {
+	cursor: unset!important;
+}
+
+.stec-layout-week-eventholder {
+	display: none!important;
+}
+
+.stec-layout-month-eventholder {
+	display: none!important;
+}
+
+.stec-layout-week-daycell-events {
+	top: 45px!important;
+}
+
+.stec-layout-month-daycell-event-name {
+	line-height: 16px!important;
+}
+
+.stec-layout-week-daycell-today {
+	
+}
+
+.stec-layout-week td {
+    border: unset !important;
+}
